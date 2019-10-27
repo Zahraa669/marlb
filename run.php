@@ -374,7 +374,7 @@ echo $catalog5[1][4];
 echo $rapi;
 }
 	
-echo "DONE\n";
+echo "DONE \n";
 echo "Created By Alip Dzikri \n";
 }
 
